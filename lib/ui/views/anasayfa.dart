@@ -118,10 +118,9 @@ class _AnasayfaState extends State<Anasayfa> {
                                 Text(yemek.yemek_adi,style: TextStyle(fontSize: 20),),
                                 Padding(
                                   padding: const EdgeInsets.all(8.0),
-                                  child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                  child: Row(mainAxisAlignment: MainAxisAlignment.center,
                                     children: [
                                       Text("₺${yemek.yemek_fiyat} ",style: TextStyle(fontSize: 20),),
-                                      IconButton(onPressed: (){}, icon: Icon(Icons.add_box_rounded)),
 
                                     ],
                                   ),

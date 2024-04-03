@@ -138,6 +138,10 @@ class _SepetState extends State<Sepet> {
             Navigator.push(context, MaterialPageRoute(builder: (context)=>Teslimat()));
           }, child: Text("Sepeti Onayla")):
               ElevatedButton(onPressed: (){
+
+
+
+
                 Navigator.push(context, MaterialPageRoute(builder: (context)=>Anasayfa()));
               }, child: Text("Anasayfaya Dön"))
         ],

@@ -22,7 +22,7 @@ class _KayitSayfaState extends State<KayitSayfa> {
     if(passwordController.text==confirmpasswordController.text){
       try{
         await FirebaseAuth.instance.createUserWithEmailAndPassword(email: emailController.text,password:  passwordController.text);
-        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>Anasayfa()));
+        Navigator.push(context, MaterialPageRoute(builder: (context)=>GirisSayfa()));
       }
       //error
       catch (e){
