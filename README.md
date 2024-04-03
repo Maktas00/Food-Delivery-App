@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Maktas00/Food-Delivery-App/assets/73492220/80339321-1c64-4834-9837-30970ccef473)
+![2](https://github.com/Maktas00/Food-Delivery-App/assets/73492220/606042d5-7a3a-4f37-bbbd-4b4c4aa84197)
+![3](https://github.com/Maktas00/Food-Delivery-App/assets/73492220/e138f1bd-6326-4caf-aaf8-dbdbe2f7481c)
+![4](https://github.com/Maktas00/Food-Delivery-App/assets/73492220/fd609c06-2332-41dc-8785-ecd3bc04b366)
+![5](https://github.com/Maktas00/Food-Delivery-App/assets/73492220/9d87b28f-566a-41ad-b870-804b5ab44c22)
